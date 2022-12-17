@@ -1,0 +1,100 @@
+*{
+    background-color: rgb(232, 232, 232);
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    margin: 10px 0px;
+    /* margin-top: 50px; */
+    color: rgb(55, 55, 55);
+}
+.bg-light1{
+    background-color: rgb(24, 147, 228);
+ 
+}
+.tare{
+    /* margin-top: 30px; */
+    /* margin: 10px 30px; */
+    border: 2px solid black;
+    
+    height: 10em;
+    width: 69em;
+
+    
+    /* background-color: aliceblue; */
+
+}
+.bat{
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-right: 8px;
+    border-radius: 1px solid black;
+    padding: 2px 5px;
+    background-color: rgb(55, 55, 55);
+    color: white;
+}
+.bat{
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-right: 8px;
+    border-radius: 1px solid black;
+    padding: 2px 5px;
+    background-color: rgb(55, 55, 55);
+    color: white;
+}
+.bat1{
+    margin-left: 0px;
+    margin-top: 15px;
+    margin-right: 8px;
+    border-radius: 1px solid black;
+    padding: 2px 5px;
+    background-color: rgb(55, 55, 55);
+    color: white;
+}
+p{
+    background-color: white;
+    color: black;
+    font-size: larger;
+    /* padding: 10px 5px; */
+    margin: 10px 0px;
+}
+span{
+    background-color: white;
+
+}
+@media only screen and (max-width: 500px) {
+    .tare{ 
+        height: 9em;
+        width: 331px;
+        border: 1px solid white;
+        background-color: white;
+    }
+    .bat{
+   
+        margin-top: 10px;
+       
+        font-size: 15px;
+    }
+    .bat1{
+        background-color: rgb(55, 55, 55);
+        color: white;
+        margin-right: 14px;
+        font-size: 15px;
+
+    }
+    *{
+        background-color: rgb(0, 0, 0);
+    }
+    h2{
+        
+        color: rgb(255, 255, 255);
+    }
+    p{
+        margin-right: 27px;
+    }
+   
+  }
+
+
